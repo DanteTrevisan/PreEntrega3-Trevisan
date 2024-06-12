@@ -1,4 +1,4 @@
 MI PRIMER PROYECTO DE DESARROLLO WEB
 
 Hola, voy a contarles un poco sobre mi proyecto de pagina web. Como dice el titulo este es mi proyecto de pagina web y forma parte del curso de CODERHOUSE que estoy haciendo, justamente, sobre desarrollo web.
-Lo que estan viendo es la pre-entrega 2. Para esta entrega realice, cuya tematica es la de promocion de un gimnasio, el maquetado y aplique estilos css justo con bootstrap para poder usar componentes como acordiones y carruseles y tambien realizar un diseño responsive para que el sitio se amolde dependiendo del tamaño de la pantalla del dispositivo donde se abra el sitio. Muchas gracias. 
+Lo que estan viendo es la pre-entrega 3. Para esta entrega utilice scss para escribir los estilos del archivo css y separe en modulos scss los diferentes componentes del sitio. Tambien use animaciones para algunas partes de sitio utilizanto animation junto con @keyframes.
